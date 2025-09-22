@@ -1,4 +1,4 @@
-# tool-chest
+# 🧰 tool-chest
 Really cool tools for developers.
 
 Most of these tools aren't services but rather things you deploy yourself, but are typically one-click deploys with docker images.
